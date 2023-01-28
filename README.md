@@ -48,7 +48,7 @@ I am self taught, backend developer in the making. I contribute positively to th
 </div>
 <br>
 
-**Collpse to view**
+**Collapse to view**
 
 <details>
   <summary><b>Github Profile Stats</b></summary>
