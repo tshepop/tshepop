@@ -8,7 +8,7 @@
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=tshepop&color=orange">
-  <h1>Hi there 👋</h1>
+  <h1>Hi there 👋 I'm Tshepo</h1>
 </div>
 
 
