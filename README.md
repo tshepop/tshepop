@@ -44,7 +44,7 @@ I am self taught, backend developer in the making. I contribute positively to th
 <!-- GitHub Stats -->
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true" alt="Tshepo's Streaks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true" alt="Tshepo's top lang stats" height="192px" width="500px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true" alt="Tshepo's top lang stats" height="192px" width="400px">
 </div>
 <br>
 
