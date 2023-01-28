@@ -37,10 +37,31 @@ I am self taught, backend developer in the making. I contribute positively to th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40">
 </div>  
 
+---
 
 
+### 🔥 My Stats :
+<!-- GitHub Stats -->
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true" alt="Tshepo's Streaks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true" alt="Tshepo's top lang stats" height="192px" width="500px">
+</div>
+<br>
+
+**Collpse to view**
+
+<details>
+  <summary><b>Github Profile Stats</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=tshepop&show_icons=true&theme=dracula&hide_border=true">
+</details>
+
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true)](https://github.com/tshepop/github-readme-stats)
+ -->
 
 
+    
 
 <!--
 **tshepop/tshepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
