@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300">
                                                                                                 
   <div id="badges">
-    <a href="">
+    <a href="https://www.twitter.com/tshepo_potelo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     
