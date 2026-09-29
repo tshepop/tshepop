@@ -18,46 +18,46 @@ I am self taught, backend developer in the making. I contribute positively to th
 - 🔭 I’m currently working on applying Python OOP on my future projects
 - 🌱 I’m currently learning Django and TDD
 - 💻 I get around the tech dev environment with linux
-- ⚡ In my free time I solve coding challenges on HackInScience
+- ⚡ In my free time I solve coding challenges
 - I am very interested in Open Source
 
 ---
 
-
 ### 🛠️ Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="javascript" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLITE3" alt="sql" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="UBUNTU" alt="ubuntu" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="html" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />&nbsp;
+                
 </div>  
 
 ---
 
-
 ### 🔥 My Stats :
 <!-- GitHub Stats -->
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true" alt="Tshepo's Streaks" width="400">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true" alt="Tshepo's top lang stats" height="192px" width="400px">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true" alt="Tshepo's Streaks" width="400" height="200">&nbsp;&nbsp;
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=tshepop&layout=compact&langs_count=4&theme=dracula&hide_border=true" width="400" height="200">
 </div>
+
 <br>
-
-**Collapse to view**
-
-<details>
-  <summary><b>Github Profile Stats</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=tshepop&show_icons=true&theme=dracula&hide_border=true">
-</details>
 
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tshepop&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshepop&layout=compact&theme=dracula&hide_border=true)](https://github.com/tshepop/github-readme-stats)
+
+https://github-stats-extended.vercel.app/api/top-langs?username=tshepop&layout=compact&langs_count=4&theme=dracula
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tshepop&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=tshepop&layout=compact&langs_count=4&theme=dracula)
  -->
 
 
